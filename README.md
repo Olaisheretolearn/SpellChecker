@@ -1,7 +1,7 @@
 ## Spell Checker using Levenshtein Distance
 
 ### Introduction
-I was intrigued by the concept of spell checkers on editing platforms, which led me to explore the implementation of a spell checker. To achieve this, I downloaded a `words.txt` file containing a comprehensive dictionary of words. The core idea was to utilize the Levenshtein distance algorithm to suggest corrections for misspelled words.
+I was intrigued by the concept of spell checkers on editing platforms, which led me to explore the implementation of a spell checker. To achieve this, I downloaded a `words.txt` file from **dwyl** containing a comprehensive dictionary of words. The core idea was to utilize the Levenshtein distance algorithm to suggest corrections for misspelled words.
 
 ### Steps Taken
 1. **Data Source**: I obtained a dictionary file (`words.txt`) from **dwyl** to serve as the reference for valid words.
