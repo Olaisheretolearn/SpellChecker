@@ -70,9 +70,14 @@ class Main {
         return dp[s1.length()][s2.length()];
     }
 
-    private static int costOfSubstitution(char a, char b) {
-        return a == b ? 0 : 1;
+  private static int costOfSubstitution(char a, char b) {
+    if (a == b) {
+        return 0;
+    } else {
+        return 1;
     }
+}
+
 
     private static int min(int... numbers) {
         return java.util.Arrays.stream(numbers)
