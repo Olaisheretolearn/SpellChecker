@@ -22,7 +22,7 @@ I was intrigued by the concept of spell checkers on editing platforms, which led
 ### Usage
 1. Run the program.
 2. Enter a potentially misspelled word when prompted.
-3. Receive suggestions based on Levenshtein distance.
+3. Get suggestions based on Levenshtein distance.
 
 Feel free to explore and adapt the code for your specific use case. If you have any questions or suggestions for improvement, please let me know.
 
