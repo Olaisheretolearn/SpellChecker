@@ -6,7 +6,7 @@ I was intrigued by the concept of spell checkers on editing platforms, which led
 ### Steps Taken
 1. **Data Source**: I obtained a dictionary file (`words.txt`) from **dwyl** to serve as the reference for valid words.
 2. **Algorithm Choice**: I decided to use the  Levenshtein distance algorithm to calculate the similarity between the input word and the words in the dictionary.
-3. **Reading Relevant Papers**: In the process, I actually  had to read some papers including "On the Recognition of Information With a Digital Computer" by Herbert Glantz (1957) and "A Program for Correcting Spelling Errors" by Charles Blair (1960), to gain insights into spell-checking techniques.
+3. **Reading Relevant Papers**: In the process, I actually  had to read some papers including "On the Recognition of Information With a Digital Computer" by Herbert Glantz (1957) and "A Program for Correcting Spelling Errors" by Charles Blair (1960), to gain insights into spell-checking technique.
 
 ### Implementation Overview
 - The program reads the dictionary file and takes user input for a potentially misspelled word.
